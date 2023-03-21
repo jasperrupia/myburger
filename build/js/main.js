@@ -1,5 +1,5 @@
 const initApp = () => {
-    const humburgerBtn = document.getElementById('humburger-btn')
+    const humburgerBtn = document.getElementById('hamburger-btn') 
     const mobileMenu = document.getElementById('mobile-menu')
 
     const toggleMenu = () => {
